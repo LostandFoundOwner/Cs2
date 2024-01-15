@@ -1,1 +1,1 @@
-<a href = "" target=" _self">фото</a>
+[![DOWNLOAD.jpg](https://i.postimg.cc/R0ZwLR82/DOWNLOAD.jpg)]()
